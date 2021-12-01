@@ -2,7 +2,7 @@
 
 A very simple app to search Github users and display Github profiles
 
-- React, react-router-dom v6, context...
+- React, react-router v6, context...
 - Hosted on Netlify
 
 # Getting Started with Create React App
