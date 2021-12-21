@@ -3,7 +3,7 @@
 A very simple app to search Github users and display Github profiles
 
 - React, react-router v6, context...
-- Hosted on Netlify
+- Hosted on Netlify : https://githubfinder070788.netlify.app/
 
 # Getting Started with Create React App
 
